@@ -1,3 +1,3 @@
 # branch-rename
 Master
-Boom
+Boom!
